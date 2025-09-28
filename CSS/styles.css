@@ -158,13 +158,11 @@ body{
     }
     .custom-card{
       width: 100% !important;
-      max-width: 350px !important;
 
       margin: auto;
       position: relative !important;
     }
     .custom-card2{
-      max-width: 220px !important;
       margin: auto;
       transition: 0.5s ease;
     }
